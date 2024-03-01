@@ -4,16 +4,22 @@
 
 ### 🧑‍💻 Tecnologias que utilizo atualmente : 
 
-<link width:"50" height:"50" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div display:inline-block> 
+  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+
+  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
   
+  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   
-  ### Linkedin: 
+  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   
-  <div style="display: inline_block"><br/>
-  <img align="center" alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </div><br/>
-  
-  - Linkedin : https://www.linkedin.com/in/saimon-costa/ </br>  
+</div> 
+
+____________________________________________________________________________________________________________________________________________________________________________
+          
+### 😁 Você também me encontra em :  
+
+
 
 
   
