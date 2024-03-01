@@ -1,44 +1,19 @@
-### Olá, eu sou o Saimon Costa 🖐
+### Olá, eu me chamo Saimon Costa 🖐
 
+  Me chamo Saimon, tenho 22 anos, sou formado em Tecnologia da Informação pela Fatec Rio Preto. Entusiasta em tecnologia e desenvolvimento de sistemas, tenho especialidade em JavaScript, HTML, CSS e React.js. Atualmente focado em projetos front-end, com o objetivo de me tornar um desenvolvedor full stack. 
 
-### Tecnologias que eu utilizo 👨‍💻
+### 🧑‍💻 Tecnologias que utilizo atualmente : 
 
-<div style="display: inline_block"><br/>                                                                                                
-  <img align="center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  </div>
-  <br>
-  <div style="display: inline_block">
-  <img align="center" alt= "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </div>
+<link width:"50" height:"50" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   
   
-  
-  Apaixonado por Tecnologia, sempre em busca de conhecimento e constante evolução !! 
-  
-  
-  
-  ### Linkedin e formas de contato : 
+  ### Linkedin: 
   
   <div style="display: inline_block"><br/>
   <img align="center" alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </div><br/>
   
   - Linkedin : https://www.linkedin.com/in/saimon-costa/ </br>  
-
-
-
-  <div style="display: inline_block"><br/>
-  <img align="center" alt= "Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </div><br/>
-  
-  - E-mail : Saimonsantoscosta@outlook.com 
-
-
- <div style="display: inline_block"><br/>
-  <img align="center" alt= "Outlook" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </div><br/>
-  
-  - WhatsApp : (17) 99200-3885
 
 
   
